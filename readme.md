@@ -3,8 +3,8 @@
 
 ## Clone this djang template project
     git clone https://github.com/AhsanRiaz9/django-project-template
-    cd djang-project-template/
-
+    cd django-project-template/
+    
 ## Pre-Requisite:
 - python3
 - pip
